@@ -95,9 +95,12 @@ cat /etc/hostname
 ### REG NUMBER: 212223040051
 ### NAME: GOKUL S
 
-![Exp 1 ](Op1-cc1.png)
+# EXP 1:
+![Screenshot 2024-11-20 193542](https://github.com/user-attachments/assets/2a1ac0d4-0543-4687-9815-018a2cc40882)
 
-![Exp 1 ](Op2-cc1.png)
+# EXP 2
+![Screenshot 2024-11-20 193557](https://github.com/user-attachments/assets/fe5694df-1487-4b87-a37c-c5d0a60e9f14)
+
 
 ## RESULT
 
